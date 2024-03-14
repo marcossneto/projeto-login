@@ -1,8 +1,19 @@
 @charset "UTF-8";
 
-/*
-    Paleta de Cores:
-    Azul: #011638
-    Cinz: #364156
-*/
+@media all {
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
 
+    body {
+        height: 100vw;
+        background-image: linear-gradient(#00171F, #7BDFF2);
+    }
+
+    main {
+        background-color: white;
+        padding: 10px;
+        width: ;
+    }
+}
