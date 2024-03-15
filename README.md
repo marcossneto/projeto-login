@@ -1,2 +1,5 @@
 # projeto-login
- Projeto tela de Login
+Projeto de Tela de Login, feito no Cap. 26 do curso
+
+Acesse o site do projeto:
+https://marcossneto.github.io/projeto-login/
