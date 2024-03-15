@@ -34,7 +34,7 @@
     div#formulario > p {
         margin-bottom: 20px;
         margin-left: 233px;
-        font-size: 1.1em;
+        font-size: 1em;
     }
 
     div#formulario > h1 {
@@ -79,7 +79,7 @@
     }
 
     div#formulario > p {
-        font-size: 1.1em;
+        font-size: 1em;
         margin: 20px 0px;
     }
 }
