@@ -61,6 +61,10 @@
         margin-bottom: 10px;
     }
 
+    div#formulario > p {
+        margin-bottom: 15px;
+    }
+
 
     form > div.campo {
         background-color: #00171F;
@@ -91,7 +95,7 @@
         border: 2px solid #00171F;
         border-radius: 8px;
         padding: 4px;
-        transform: translateY(-11px);
+        transform: translateY(-12px);
     }
 
     div.campo > input:focus-within {
